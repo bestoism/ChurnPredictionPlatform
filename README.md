@@ -2,9 +2,7 @@
 
 Welcome to my **Customer Churn Prediction Platform** project! This project demonstrates a complete data science workflow — from raw data ingestion, transformation, and model training to deployment as an interactive web application.
 
-**[➡️ Try the Live App Here!](YOUR_STREAMLIT_URL_HERE)** *(To be added after deployment)*
-
-![App Demo GIF](YOUR_DEMO_GIF_URL_HERE) *(Optional but highly recommended)*
+**[➡️ Try the Live App Here!]([YOUR_STREAMLIT_URL_HERE](https://churnpredictionplatform-qzmauwrpwwp7ofsssxx8jp.streamlit.app/))** *(To be added after deployment)*
 
 ---
 
@@ -22,7 +20,8 @@ This project aims to build an automated system that can:
 
 This project is built using a modern data stack, separating each phase of the data lifecycle. The workflow is as follows:
 
-![Architecture Diagram](YOUR_ARCHITECTURE_IMAGE_URL_HERE) *(Required)*
+![Architecture Diagram](![WhatsApp Image 2025-08-07 at 01 56 56_bfefedfe](https://github.com/user-attachments/assets/d4eb8cd3-5c8c-49a5-8d5f-561657dd2785)
+) 
 
 1. **Ingestion:** Raw data is uploaded to **Google Cloud Storage (GCS)**, acting as the data lake.
 2. **Warehousing:** Data is loaded into **Google BigQuery** for structured storage and querying.
