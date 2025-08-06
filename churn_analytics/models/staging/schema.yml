@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_telco 
+    database: numeric-polygon-468208-a7 # Project ID 
+    schema: churn_raw_data # dataset sumber
+    tables:
+      - name: telco_customers # tabel sumber
