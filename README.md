@@ -2,7 +2,7 @@
 
 Welcome to my **Customer Churn Prediction Platform** project! This project demonstrates a complete data science workflow — from raw data ingestion, transformation, and model training to deployment as an interactive web application.
 
-**[➡️ Try the Live App Here!]([YOUR_STREAMLIT_URL_HERE](https://churnpredictionplatform-qzmauwrpwwp7ofsssxx8jp.streamlit.app/))** *(To be added after deployment)*
+**[➡️ Try the Live App Here!]((https://churnpredictionplatform-qzmauwrpwwp7ofsssxx8jp.streamlit.app/))** *(To be added after deployment)*
 
 ---
 
