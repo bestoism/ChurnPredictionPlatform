@@ -86,3 +86,7 @@ Follow these steps to run the project on your local machine:
 ---
 
 Feel free to fork this project, open an issue, or contribute! 🚀
+
+---
+
+🚧 This project is under construction — stay tuned for more updates!
